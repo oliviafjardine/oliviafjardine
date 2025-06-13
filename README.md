@@ -32,10 +32,6 @@ Over the past year, I’ve built a secure compliance web app for King County, an
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliviafjardine&theme=dark" alt="Olivia's GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviafjardine&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
