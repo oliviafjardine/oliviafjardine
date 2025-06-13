@@ -1,4 +1,4 @@
-![](olivia.jpg)
+![](olivia.png)
 
 # Hello, my name is Olivia Jardine
 
