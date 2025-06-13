@@ -1,4 +1,6 @@
-# 🌟 Hello, my name is Olivia Jardine
+![](olivia.jpg)
+
+# Hello, my name is Olivia Jardine
 
 Sophomore @ University of Washington | B.S. Discrete Math & Algorithms  
 Developer, Data Enthusiast, and Builder of Real-World Solutions 💡
@@ -31,10 +33,21 @@ Over the past year, I’ve built a secure compliance web app for King County, an
 
 ## ☕ Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-oliviajardine.com-blue?style=flat&logo=vercel)](https://oliviajardine.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Olivia%20Jardine-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/olivia-jardine)  
-[![Email](https://img.shields.io/badge/Gmail-olivia%40email.com-red?style=flat&logo=gmail)](mailto:olviajardine9@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-oliviajardine-black?style=flat&logo=github)](https://github.com/oliviafjardine)  
+<p align="left">
+  <a href="https://oliviajardine.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-oliviajardine.com-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/oliviajardine" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Olivia_Jardine-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-olivia%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/oliviajardine" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-oliviajardine-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
