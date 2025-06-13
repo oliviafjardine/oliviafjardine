@@ -23,14 +23,9 @@ Over the past year, I’ve built a secure compliance web app for King County, an
 
 ---
 
-## 🎧 Spotify Recently Played  
-> (Insert Spotify widget or use a GitHub action like [`spotify-readme`](https://github.com/kittinan/spotify-github-profile))
-
----
-
 ## 🛠️ Technologies I Use
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,typescript,python,c#,cpp,opencv,scikit-learn,azure,mysql,docker,git,github,vscode,bootstrap,d3,html,css,figma" width="100%" />
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,d3,bootstrap,fastapi,flask,python,opencv,sklearn,jupyter,git,github,azure,docker,mysql,mongodb,postgresql,sqlite,figma,vercel,vite,netlify,nodejs,express,c,cs,java,vscode,linux,latex,cloudflare" width="100%" />
 
 ---
 
