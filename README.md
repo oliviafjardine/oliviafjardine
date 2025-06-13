@@ -7,7 +7,7 @@ Developer, Data Enthusiast, and Builder of Real-World Solutions 💡
 
 ---
 
-## 👩🏻‍🎓 Student in Discrete Math & Algorithms
+## 🌟 Student in Discrete Math & Algorithms
 
 Nice to meet you! I’m a sophomore studying Discrete Math & Algorithms at UW. I’m passionate about applying math, programming, and AI to solve real-world problems—from hazardous waste tracking to behavior detection. I love generating project ideas, late-night coding sprints, and building tools that empower others to learn and grow.
 
