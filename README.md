@@ -18,7 +18,7 @@ Over the past year, I’ve built a secure compliance web app for King County, an
 ## 🌱 About Me
 
 🌍 I'm based in Seattle, WA  
-🔐 Currently building: A Smart Shoplifting Detection System with computer vision 
+🔐 Currently building: A redevelopment for WA State pugetsoundstartshere.org website.
 📚 Learning about: Deep Learning, Web Security, Reinforcement Learning  
 🎯 Interests: Real-time ML, Visualization, Algorithmic Thinking  
 💬 Fun fact: I started my first business before I could legally drive—and it actually made money.
