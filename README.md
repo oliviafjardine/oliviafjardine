@@ -27,7 +27,7 @@ Over the past year, I’ve been building a secure compliance web app for King Co
 
 ## 🛠️ Technologies I Use
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,d3,bootstrap,fastapi,flask,python,opencv,sklearn,jupyter,git,github,azure,docker,mysql,mongodb,postgresql,sqlite,figma,vercel,vite,netlify,nodejs,express,c,cs,java,vscode,linux,latex,cloudflare" width="100%" />
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,d3,bootstrap,fastapi,flask,python,opencv,sklearn,jupyter,git,github,azure,docker,mysql,mongodb,postgresql,sqlite,figma,vercel,vite,netlify,nodejs,c++,cs,java,vscode,latex,cloudflare" width="100%" />
 
 ---
 
