@@ -24,7 +24,14 @@ Over the past year, I’ve been building a secure compliance web app for King Co
 💬 Fun fact: I started my first business before I could legally drive—and it actually made money.
 
 ---
+## 🔥 My GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliviafjardine&theme=tokyonight)
+
+## 📊 GitHub Stats
+![Olivia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliviafjardine&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviafjardine&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ___
 ## 🛠️ Technologies I Use
 
