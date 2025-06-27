@@ -17,7 +17,7 @@ Over the past year, I’ve been building a secure compliance web app for King Co
 
 ## 🌱 About Me
 
-🌍 I'm based in Seattle, WA  
+🌍 I'm based in Seattle, WA 
 🔐 Currently building: A redevelopment for WA State pugetsoundstartshere.org website.
 📚 Learning about: Deep Learning, Web Security, Reinforcement Learning  
 🎯 Interests: Real-time ML, Visualization, Algorithmic Thinking  
