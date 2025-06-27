@@ -1,6 +1,6 @@
 ![](olivia.png)
 
-# Hello, my name is 🪷 Olivia Jardine 🪷
+# Hello, my name is 🪷 Olivia Jardine  🪷
 
 Sophomore @ University of Washington | B.S. Discrete Math & Algorithms  
 Developer, SWE Enthusiast, and Builder of Real-World Solutions 💡
