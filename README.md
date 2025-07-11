@@ -26,9 +26,13 @@ Over the past year, I’ve been building a secure compliance web app for King Co
 ---
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=oliviafjardine&theme=omni&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=oliviafjardine&theme=tokyonight
+&hide_border=true" />
 </p>
+
 --- 
+
+
 ## 🛠️ Technologies I Use
 
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,d3,bootstrap,fastapi,flask,python,opencv,sklearn,jupyter,git,github,azure,docker,mysql,mongodb,postgresql,sqlite,figma,vercel,vite,netlify,nodejs,c++,cs,java,vscode,latex,cloudflare" width="100%" />
