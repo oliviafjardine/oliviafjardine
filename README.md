@@ -26,7 +26,7 @@ Over the past year, I’ve been building a secure compliance web app for King Co
 ---
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=oliviafjardine&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=oliviafjardine&theme=tokyonight&hide_border=true" />
 </p>
 --- 
 ## 🛠️ Technologies I Use
