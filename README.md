@@ -24,7 +24,7 @@ Over the past year, I’ve been building a secure compliance web app for King Co
 💬 Fun fact: I started my first business before I could legally drive—and it actually made money.
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviafjardine&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://streak-stats.demolab.com?user=oliviafjardine&theme=tokyonight&hide_border=true)
 
 --- 
 
