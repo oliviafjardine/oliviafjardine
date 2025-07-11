@@ -26,7 +26,7 @@ Over the past year, I’ve been building a secure compliance web app for King Co
 ---
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=default&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=oliviafjardine&theme=default&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
