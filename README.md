@@ -24,6 +24,10 @@ Over the past year, I’ve been building a secure compliance web app for King Co
 💬 Fun fact: I started my first business before I could legally drive—and it actually made money.
 
 ---
+
+<img src="https://streak-stats.demolab.com?user=oliviajardine&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+---
+
 ## 🛠️ Technologies I Use
 
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,d3,bootstrap,fastapi,flask,python,opencv,sklearn,jupyter,git,github,azure,docker,mysql,mongodb,postgresql,sqlite,figma,vercel,vite,netlify,nodejs,c++,cs,java,vscode,latex,cloudflare" width="100%" />
