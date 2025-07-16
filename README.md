@@ -20,24 +20,31 @@
   </a>
 </p>
 
-## 📊 Quant & Dev Tools
+## 📊 Quant & Dev Toolkit
+
+### 🛠️ Core Stack
+- **Languages**: Python, C++, TypeScript, SQL
+- **Frameworks**: FastAPI, Flask, React, Node
+- **Tools**: Git, Docker, Azure, VS Code
+- **Databases**: PostgreSQL, MySQL, SQLite
+
+### 📈 Quant Focus
+- **Backtesting**: Custom engines, risk modeling, slippage simulation
+- **Alpha Research**: Factor testing, signal engineering, performance metrics
+- **Math & Stats**: Linear Algebra, Probability, Optimization, Stochastic Processes
+- **ML/DS**: Feature pipelines, labeling, time series modeling
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,jupyter,sklearn,fastapi,flask,postgresql,mysql,sqlite,git,github,azure,docker,ts,react,vscode,c++,latex" width="100%" />
 </p>
 
-- 🧮 **Math & Stats**: Linear Algebra, Probability, Optimization, Random Processes  
-- ⚙️ **Backtesting & Alpha Research**: Custom engines, slippage modeling, risk metrics  
-- 📈 **ML & Signal Processing**: Feature pipelines, label generation, time series modeling  
-- 💻 **Stack**: Python (core), C++ (low-level), TypeScript/React (tools), SQL/MariaDB (data)
-
 ---
 
-## 📍 Currently...
+## 📍 Currently
 
-- 📍 Based in Seattle, WA  
+- 📍 Seattle, WA  
 - 📚 Learning: Portfolio theory, numerical methods, RL for trading  
-- 🛠️ Working on: A C++ + Python hybrid alpha engine for live-sim trading
+- 🛠️ Building: C++ + Python hybrid alpha engine for live-sim trading
 
 ---
 
@@ -51,7 +58,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Olivia_Jardine-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jardineo@oregonstate.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-jardineo%40oregonstate.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-oliviajardine9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/oliviajardine" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-oliviajardine-181717?style=for-the-badge&logo=github&logoColor=white" />
