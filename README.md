@@ -43,8 +43,8 @@
 ## Currently
 
 - 📍 Seattle, WA  
-- Learning: Portfolio theory, numerical methods, RL for trading  
-- Building: C++ + Python hybrid alpha engine for live-sim trading
+- **Learning:** Portfolio theory, numerical methods, RL for trading  
+- **Building:** C++ + Python hybrid alpha engine for live-sim trading
 
 ---
 
