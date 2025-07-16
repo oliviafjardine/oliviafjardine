@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="olivia.png" width="100%" alt="Olivia Jardine Banner">
+  <img src="preview" width="100%" alt="Preview Image">
 </p>
 
 <h1 align="center">📈 Olivia Jardine</h1>
