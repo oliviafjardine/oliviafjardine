@@ -20,7 +20,11 @@
   </a>
 </p>
 
-## Dev Toolkit
+## Dev Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,cplusplus,typescript,javascript,html,css,bash,sql,dotnet,react,nextjs,nodejs,tailwind,azure,docker,git,firebase,vite,visualstudio,pycharm" />
+</p>
 
 ### 🛠️ Core Stack
 - **Languages**: Python, C++, TypeScript, SQL
@@ -33,10 +37,6 @@
 - **Alpha Research**: Factor testing, signal engineering, performance metrics
 - **Math & Stats**: Linear Algebra, Probability, Optimization, Stochastic Processes
 - **ML/DS**: Feature pipelines, labeling, time series modeling
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,jupyter,sklearn,fastapi,flask,postgresql,mysql,sqlite,git,github,azure,docker,ts,react,vscode,c++,latex" width="100%" />
-</p>
 
 ---
 
