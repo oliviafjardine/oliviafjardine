@@ -50,7 +50,7 @@ I enjoy working on meaningful, technically challenging projects—especially one
     <img src="https://img.shields.io/badge/LinkedIn-Olivia_Jardine-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jardineo@oregonstate.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-jardineo%40oregonstate.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-oliviajardine9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/oliviajardine" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-oliviajardine-181717?style=for-the-badge&logo=github&logoColor=white" />
