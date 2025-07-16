@@ -1,40 +1,46 @@
 <p align="center">
-  <img src="olivia.png" width="100%" alt="Preview image">
+  <img src="olivia.png" width="100%" alt="Olivia Jardine Preview Image">
 </p>
 
-# Hello, my name is 🪷 Olivia Jardine 🪷  
+# 👋 Hi, I'm Olivia Jardine
 
-Sophomore @ University of Washington | B.S. Discrete Math & Algorithms  
-Developer, SWE Enthusiast, and Builder of Real-World Solutions 💡
-
----
-
-## 🌟 Student in Discrete Math & Algorithms
-
-Nice to meet you! I’m a sophomore studying Discrete Math & Algorithms at UW. I have an urge for applying math, programming, and AI to solve real-world problems—from hazardous waste tracking to behavior detection. I love generating project ideas, pulling all-nighters to program, and building tools that empower others to learn and grow.
-
-Over the past year, I’ve been building a secure compliance web app for King County, an AI-powered shoplifting detection system, and interactive CS learning tools. I’m always down to collaborate, especially on meaningful projects that push the limits of tech for good. Let’s connect if you're building something cool! 🚀
+🎓 Sophomore @ University of Washington — B.S. Discrete Math & Algorithms  
+🧠 Developer | SWE Enthusiast | Builder of Real-World Solutions
 
 ---
 
-## 🌱 About Me
+## 📌 About Me
 
-🌍 I'm based in Seattle, WA
-🔐 Currently building: A redevelopment for WA State pugetsoundstartshere.org website.
-📚 Learning about: Deep Learning, Web Security, Reinforcement Learning  
-🎯 Interests: Real-time ML, Visualization, Algorithmic Thinking  
-💬 Fun fact: I started my first business before I could legally drive—and it actually made money.
+I'm a sophomore at UW passionate about the intersection of **mathematics, algorithms, and software engineering**. I thrive on turning complex ideas into usable tools—whether it’s tracking hazardous waste for local governments or building AI-powered systems that detect real-world behavior.
+
+Over the past year, I’ve developed:
+- 🔐 A secure compliance web app for **King County, WA**
+- 🧠 A computer vision project for **AI-powered shoplifting detection**
+- 🧰 Interactive tools to help **CS students learn better and faster**
+
+I enjoy working on meaningful, technically challenging projects—especially ones that push the boundaries of tech for social good.
+
+> If you’re building something impactful, I’d love to collaborate. Let’s talk!
 
 ---
 
-
-## 🛠️ Technologies I Use
+## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,d3,bootstrap,fastapi,flask,python,opencv,sklearn,jupyter,git,github,azure,docker,mysql,mongodb,postgresql,sqlite,figma,vercel,vite,netlify,nodejs,c++,cs,java,vscode,latex,cloudflare" width="100%" />
 
 ---
 
-## ☕ Connect with Me
+## 🌱 Currently...
+
+- 📍 Based in **Seattle, WA**
+- 🛠️ Rebuilding: **pugetsoundstartshere.org** for WA State
+- 📚 Learning: **Deep Learning, Web Security, Reinforcement Learning**
+- ⚡ Interests: Real-time ML, Visualization, Algorithmic Thinking
+- 💬 Fun fact: I started a profitable business before I could legally drive.
+
+---
+
+## 💼 Let’s Connect
 
 <p align="left">
   <a href="https://oliviajardine.com" target="_blank">
@@ -43,15 +49,14 @@ Over the past year, I’ve been building a secure compliance web app for King Co
   <a href="https://www.linkedin.com/in/oliviajardine" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Olivia_Jardine-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-olivia%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:jardineo@oregonstate.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-jardineo%40oregonstate.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/oliviajardine" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-oliviajardine-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-
 ---
 
-> 🧠 "Code with clarity, build with purpose, and always leave room for curiosity."  
+> 💡 *“Code with clarity, build with purpose, and always leave room for curiosity.”*
