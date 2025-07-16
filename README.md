@@ -10,9 +10,9 @@
 
 ---
 
-## My Portfolio
+## My Portfolio - oliviajardine.com
 <p align="center">
-  <img src="website.png" width="80%" alt="Preview Image">
+  <img src="website.png" width="80%" alt="Preview Image" link="oliviajardine.com">
 </p>
 
 ## 📊 Quant & Dev Tools
