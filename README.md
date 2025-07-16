@@ -17,7 +17,7 @@ I'm a sophomore at UW with a passion for building **systematic, data-driven tool
 
 ## My Portfolio
 <p align="center">
-  <img src="website.jpg" width="100%" alt="Preview Image">
+  <img src="website.png" width="80%" alt="Preview Image">
 </p>
 
 ## 📊 Quant & Dev Tools
