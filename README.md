@@ -1,6 +1,6 @@
 <h1 align="center">📈 Olivia Jardine</h1>
 <p align="center">
-  <b>B.S. Discrete Math & Algorithms @ University of Washington</b><br>
+  <b>Sophomore - B.S. Discrete Math & Algorithms @ University of Washington</b><br>
   Quant Finance Fanatic | Math & Programming Enthusiast | Systematic Thinker
 </p>
 
@@ -8,6 +8,8 @@
 <p align="center">
   <img src="5B2AE528-E9BC-40FF-8BCB-B0C2C2B84643.jpg" width="100%" alt="Preview Image">
 </p>
+
+> 💬 *“Forget crystal balls — I have NumPy and a backtester.”*
 
 ---
 
@@ -55,7 +57,3 @@
     <img src="https://img.shields.io/badge/GitHub-oliviajardine-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-> 🧠 *“Models are only as powerful as the ideas behind them — and the code that brings them to life.”*
