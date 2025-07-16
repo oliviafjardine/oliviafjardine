@@ -1,11 +1,12 @@
-<p align="center">
-  <img src="5B2AE528-E9BC-40FF-8BCB-B0C2C2B84643.jpg" width="100%" alt="Preview Image">
-</p>
-
 <h1 align="center">📈 Olivia Jardine</h1>
 <p align="center">
   <b>B.S. Discrete Math & Algorithms @ University of Washington</b><br>
   Quant Finance Fanatic | Math & Programming Enthusiast | Systematic Thinker
+</p>
+
+
+<p align="center">
+  <img src="5B2AE528-E9BC-40FF-8BCB-B0C2C2B84643.jpg" width="100%" alt="Preview Image">
 </p>
 
 ---
