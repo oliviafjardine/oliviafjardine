@@ -18,17 +18,6 @@ Whether it's analyzing market signals, engineering alpha-generating features, or
 
 ---
 
-## 💼 Quant-Focused Projects
-
-| Project | Description | Highlights |
-|--------|-------------|------------|
-| [📊 Algorithmic Trading Strategy](https://github.com/oliviajardine/algorithmic-trading-strategy) | A modular Python pipeline for alpha factor research & backtesting | Custom feature engineering, universe filtering, realistic simulations |
-| [📈 Smart Rubric Grader](#) | ML-powered grading engine using structured rubrics | Probabilistic logic, auto-generated feedback, export tools |
-| [🔍 Shoplifting Detection System](#) | Real-time CV system w/ classification pipeline | OpenCV + ML, feature engineering, false-positive minimization |
-| [📘 Abstract Strategy Game AI](#) | Turn-based game w/ minimax-like logic and game state evaluation | Tree search, scoring heuristics, optimal decision-making |
-
----
-
 ## 📊 Quant & Dev Tools
 
 <p align="center">
@@ -45,18 +34,8 @@ Whether it's analyzing market signals, engineering alpha-generating features, or
 ## 📍 Currently...
 
 - 📍 Based in Seattle, WA  
-- 🔬 Researching: Signal decay, factor orthogonality, risk-adjusted return smoothing  
 - 📚 Learning: Portfolio theory, numerical methods, RL for trading  
 - 🛠️ Working on: A C++ + Python hybrid alpha engine for live-sim trading
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oliviafjardine&show_icons=true&theme=gruvbox&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviafjardine&layout=compact&theme=gruvbox&hide_border=true" height="150" />
-</p>
 
 ---
 
