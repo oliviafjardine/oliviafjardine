@@ -1,4 +1,6 @@
-![](olivia.png)
+<p align="center">
+  <img src="olivia.png" width="100%" alt="Preview image">
+</p>
 
 # Hello, my name is 🪷 Olivia Jardine 🪷  
 
