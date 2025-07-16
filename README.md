@@ -5,14 +5,9 @@
 <h1 align="center">📈 Olivia Jardine</h1>
 <p align="center">
   <b>B.S. Discrete Math & Algorithms @ University of Washington</b><br>
-  Aspiring Quant | Math & Programming Enthusiast | Systematic Thinker
+  Quant Finance Fanatic | Math & Programming Enthusiast | Systematic Thinker
 </p>
 
----
-
-## 🧠 About Me
-
-I'm a sophomore at UW with a passion for building **systematic, data-driven tools** at the intersection of **mathematics, markets, and software**.
 ---
 
 ## My Portfolio
