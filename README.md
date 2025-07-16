@@ -1,48 +1,68 @@
 <p align="center">
-  <img src="olivia.png" width="100%" alt="Olivia Jardine Preview Image">
+  <img src="olivia.png" width="100%" alt="Olivia Jardine Banner">
 </p>
 
-# 👋 Hi, I'm Olivia Jardine
-
-🎓 Sophomore @ University of Washington — B.S. Discrete Math & Algorithms  
-🧠 Developer | SWE Enthusiast | Builder of Real-World Solutions
-
----
-
-## 📌 About Me
-
-I'm a sophomore at UW passionate about the intersection of **mathematics, algorithms, and software engineering**. I thrive on turning complex ideas into usable tools—whether it’s tracking hazardous waste for local governments or building AI-powered systems that detect real-world behavior.
-
-Over the past year, I’ve developed:
-- 🔐 A secure compliance web app for **King County, WA**
-- 🧠 A computer vision project for **AI-powered shoplifting detection**
-- 🧰 Interactive tools to help **CS students learn better and faster**
-
-I enjoy working on meaningful, technically challenging projects—especially ones that push the boundaries of tech for social good.
-
-> If you’re building something impactful, I’d love to collaborate. Let’s talk!
+<h1 align="center">📈 Olivia Jardine</h1>
+<p align="center">
+  <b>B.S. Discrete Math & Algorithms @ University of Washington</b><br>
+  Aspiring Quant | Math & Programming Enthusiast | Systematic Thinker
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,d3,bootstrap,fastapi,flask,python,opencv,sklearn,jupyter,git,github,azure,docker,mysql,mongodb,postgresql,sqlite,figma,vercel,vite,netlify,nodejs,c++,cs,java,vscode,latex,cloudflare" width="100%" />
+I'm a sophomore at UW with a passion for building **systematic, data-driven tools** at the intersection of **mathematics, markets, and software**.
 
----
-
-## 🌱 Currently...
-
-- 📍 Based in **Seattle, WA**
-- 🛠️ Rebuilding: **pugetsoundstartshere.org** for WA State
-- 📚 Learning: **Deep Learning, Web Security, Reinforcement Learning**
-- ⚡ Interests: Real-time ML, Visualization, Algorithmic Thinking
-- 💬 Fun fact: I started a profitable business before I could legally drive.
+Whether it's analyzing market signals, engineering alpha-generating features, or backtesting strategies, I thrive where **theory meets code**. I specialize in building reliable, scalable, and explainable systems — from scratch.
 
 ---
 
-## 💼 Let’s Connect
+## 💼 Quant-Focused Projects
 
-<p align="left">
+| Project | Description | Highlights |
+|--------|-------------|------------|
+| [📊 Algorithmic Trading Strategy](https://github.com/oliviajardine/algorithmic-trading-strategy) | A modular Python pipeline for alpha factor research & backtesting | Custom feature engineering, universe filtering, realistic simulations |
+| [📈 Smart Rubric Grader](#) | ML-powered grading engine using structured rubrics | Probabilistic logic, auto-generated feedback, export tools |
+| [🔍 Shoplifting Detection System](#) | Real-time CV system w/ classification pipeline | OpenCV + ML, feature engineering, false-positive minimization |
+| [📘 Abstract Strategy Game AI](#) | Turn-based game w/ minimax-like logic and game state evaluation | Tree search, scoring heuristics, optimal decision-making |
+
+---
+
+## 📊 Quant & Dev Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,jupyter,sklearn,fastapi,flask,postgresql,mysql,sqlite,git,github,azure,docker,ts,react,vscode,c++,latex" width="100%" />
+</p>
+
+- 🧮 **Math & Stats**: Linear Algebra, Probability, Optimization, Random Processes  
+- ⚙️ **Backtesting & Alpha Research**: Custom engines, slippage modeling, risk metrics  
+- 📈 **ML & Signal Processing**: Feature pipelines, label generation, time series modeling  
+- 💻 **Stack**: Python (core), C++ (low-level), TypeScript/React (tools), SQL/MariaDB (data)
+
+---
+
+## 📍 Currently...
+
+- 📍 Based in Seattle, WA  
+- 🔬 Researching: Signal decay, factor orthogonality, risk-adjusted return smoothing  
+- 📚 Learning: Portfolio theory, numerical methods, RL for trading  
+- 🛠️ Working on: A C++ + Python hybrid alpha engine for live-sim trading
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oliviafjardine&show_icons=true&theme=gruvbox&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviafjardine&layout=compact&theme=gruvbox&hide_border=true" height="150" />
+</p>
+
+---
+
+## ☕ Connect with Me
+
+<p align="center">
   <a href="https://oliviajardine.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-oliviajardine.com-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -50,7 +70,7 @@ I enjoy working on meaningful, technically challenging projects—especially one
     <img src="https://img.shields.io/badge/LinkedIn-Olivia_Jardine-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jardineo@oregonstate.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-oliviajardine9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-jardineo%40oregonstate.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/oliviajardine" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-oliviajardine-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -59,4 +79,4 @@ I enjoy working on meaningful, technically challenging projects—especially one
 
 ---
 
-> 💡 *“Code with clarity, build with purpose, and always leave room for curiosity.”*
+> 🧠 *“Models are only as powerful as the ideas behind them — and the code that brings them to life.”*
