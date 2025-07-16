@@ -23,7 +23,7 @@
 ## Dev Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,cplusplus,typescript,javascript,html,css,bash,sql,dotnet,react,nextjs,nodejs,tailwind,azure,docker,git,firebase,vite,visualstudio,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,typescript,javascript,html,css,latex,bash,mysql,postgres,sqlite,dotnet,react,nextjs,nodejs,fastapi, bootstrap,tailwind,azure,docker,git,firebase,vite,visualstudio,pycharm,github,gitlab" />
 </p>
 
 ### 🛠️ Core Stack
