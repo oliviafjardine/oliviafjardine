@@ -13,10 +13,12 @@
 ## 🧠 About Me
 
 I'm a sophomore at UW with a passion for building **systematic, data-driven tools** at the intersection of **mathematics, markets, and software**.
-
-Whether it's analyzing market signals, engineering alpha-generating features, or backtesting strategies, I thrive where **theory meets code**. I specialize in building reliable, scalable, and explainable systems — from scratch.
-
 ---
+
+## My Portfolio
+<p align="center">
+  <img src="website.jpg" width="100%" alt="Preview Image">
+</p>
 
 ## 📊 Quant & Dev Tools
 
